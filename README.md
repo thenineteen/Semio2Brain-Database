@@ -1,4 +1,4 @@
-# Semio2Brain-Database
+# Semio2Brain-Database ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4473240.svg)
 Descriptive Seizure Semiologies and their multi-one-hot encoded categorical hierarchical brain localisations (11230 datapoints) and lateralisations (2391 datapoints) from 4643 patients across 309 included articles, as a Microsoft Excel Spreadsheet.
 
 
