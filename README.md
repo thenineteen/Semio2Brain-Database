@@ -1,5 +1,5 @@
 # Semio2Brain-Database
-Descriptive Seizure Semiologies and their multi-one-hot encoded categorical hierarchical brain localisations (11230 datapoints) and lateralisations (2391 datapoints) from 4643 patients across 309 included articles.
+Descriptive Seizure Semiologies and their multi-one-hot encoded categorical hierarchical brain localisations (11230 datapoints) and lateralisations (2391 datapoints) from 4643 patients across 309 included articles, as a Microsoft Excel Spreadsheet.
 
 
 **Seizure semiology**
