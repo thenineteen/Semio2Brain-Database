@@ -1,6 +1,9 @@
 # Semio2Brain-Database [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4473240.svg)](https://doi.org/10.5281/zenodo.4473240)
 Descriptive Seizure Semiologies and their multi-one-hot encoded categorical hierarchical brain localisations (11230 datapoints) and lateralisations (2391 datapoints) from 4643 patients across 309 included articles, as a Microsoft Excel Spreadsheet.
 
+# Citing
+If you use this database please cite the original paper describing the database and localisation results:
+**Ali Alim-Marvasti, Gloria Romagnoli1, Karan Dahele, Hadi Modarres, Fernando Pérez-García2, Rachel Sparks, Sebastien Ourselin, Matthew J Clarkson, Fahmida Chowdhury, Beate Diehl, John S Duncan. Probabilistic Landscape of Seizure Semiology Localising Values. Brain Communications. 2022 (In Press)**
 
 ## Seizure semiology
 The initial or most prominently reported semiology (ipS) of patients with epilepsy were documented, firstly using the descriptions as reported (e.g., “right arm flexed and left arm extended”), and subsequently using summary terms at the point of data collection (e.g., “L asymmetric tonic”).
