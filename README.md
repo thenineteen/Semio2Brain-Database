@@ -4,7 +4,9 @@ Descriptive Seizure Semiologies and their multi-one-hot encoded categorical hier
 # Citing
 If you use this database please cite the original paper describing the database and localisation results:
 
-**Alim-Marvasti A, Romagnoli G, Dahele K, Modarres H, Pérez-García F, Sparks R, Ourselin S, Clarkson MJ, Chowdhury F, Diehl B, Duncan JS. Probabilistic landscape of seizure semiology localizing values. Brain Communications. 2022 Jun 1;4(3) https://academic.oup.com/braincomms/article/4/3/fcac130/6588547**
+1. **Alim-Marvasti A, Romagnoli G, Dahele K, Modarres H, Pérez-García F, Sparks R, Ourselin S, Clarkson MJ, Chowdhury F, Diehl B, Duncan JS. Probabilistic landscape of seizure semiology localizing values. Brain Communications. 2022 Jun 1;4(3) https://academic.oup.com/braincomms/article/4/3/fcac130/6588547**
+
+2. [dataset] Alim-Marvasti, A., Romagnoli, G., Duncan, J.S. (2021). thenineteen/Semio2Brain-Database: Semio2Brain public dataset v1.2.3 (v1.2.3). Zenodo. https://doi.org/10.5281/zenodo.4606589 
 
 ## Seizure semiology
 The initial or most prominently reported semiology (ipS) of patients with epilepsy were documented, firstly using the descriptions as reported (e.g., “right arm flexed and left arm extended”), and subsequently using summary terms at the point of data collection (e.g., “L asymmetric tonic”).
