@@ -3,6 +3,7 @@ Descriptive Seizure Semiologies and their multi-one-hot encoded categorical hier
 
 # Citing
 If you use this database please cite the original paper describing the database and localisation results:
+
 **Alim-Marvasti A, Romagnoli G, Dahele K, Modarres H, Pérez-García F, Sparks R, Ourselin S, Clarkson MJ, Chowdhury F, Diehl B, Duncan JS. Probabilistic landscape of seizure semiology localizing values. Brain Communications. 2022 Jun 1;4(3) https://academic.oup.com/braincomms/article/4/3/fcac130/6588547**
 
 ## Seizure semiology
